@@ -11,18 +11,5 @@
 
 ## 🚋 Linguagens e Tecnologias
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,sass,php,laravel,jquery,git,py" />
-</div>
-
-<br/>
-
-## 📊 Estatísticas
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpavrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpavrdev&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=go,py,php,c,laravel,vue,react,linux,docker,postgres,mysql" />
 </div>
