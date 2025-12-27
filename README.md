@@ -1,10 +1,13 @@
 <div align="center">
-  <a href="https://youtube.com">
-    <img src="https://img.shields.io/badge/Inscreva--se-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  <a href="https://www.linkedin.com/in/joao-pedro-veras/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Views-860K-E8A317?style=for-the-badge" alt="Views"/>
-  <img src="https://img.shields.io/badge/Estrelas-558-468847?style=for-the-badge" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Seguidores-1.6K-005CC5?style=for-the-badge" alt="Followers"/>
+  <a href="https://leetcode.com/u/jpavrdev/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Portfolio-255?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 <br/>
